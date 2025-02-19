@@ -52,4 +52,4 @@
 
 ![info1](screenshots/infoss1.png)
 
-![info2](screenshots/infoss2.png)# -File-Compressor
+![info2](screenshots/infoss2.png)# File-Compressor
