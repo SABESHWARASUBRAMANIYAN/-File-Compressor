@@ -1,7 +1,4 @@
-/* 
-	Author : Samyak Jain
-	Created on : 30 June 2020
-*/
+
 // import { MinHeap } from './heap_implementation.js';
 // export { Codec };
 class Codec {
